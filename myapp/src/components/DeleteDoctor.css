@@ -1,0 +1,26 @@
+.delete-doctor-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .delete-doctor-container input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 300px;
+  }
+  
+  .delete-doctor-container .btn {
+    padding: 10px 20px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
